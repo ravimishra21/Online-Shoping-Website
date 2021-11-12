@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Online-Shoping-Website/static/css/main.2097ff75.chunk.css",
+    "main.js": "/Online-Shoping-Website/static/js/main.3d56d1a5.chunk.js",
+    "main.js.map": "/Online-Shoping-Website/static/js/main.3d56d1a5.chunk.js.map",
+    "runtime-main.js": "/Online-Shoping-Website/static/js/runtime-main.6c4889a6.js",
+    "runtime-main.js.map": "/Online-Shoping-Website/static/js/runtime-main.6c4889a6.js.map",
+    "static/css/2.f4c56af9.chunk.css": "/Online-Shoping-Website/static/css/2.f4c56af9.chunk.css",
+    "static/js/2.003a9cd0.chunk.js": "/Online-Shoping-Website/static/js/2.003a9cd0.chunk.js",
+    "static/js/2.003a9cd0.chunk.js.map": "/Online-Shoping-Website/static/js/2.003a9cd0.chunk.js.map",
+    "index.html": "/Online-Shoping-Website/index.html",
+    "static/css/2.f4c56af9.chunk.css.map": "/Online-Shoping-Website/static/css/2.f4c56af9.chunk.css.map",
+    "static/css/main.2097ff75.chunk.css.map": "/Online-Shoping-Website/static/css/main.2097ff75.chunk.css.map",
+    "static/js/2.003a9cd0.chunk.js.LICENSE.txt": "/Online-Shoping-Website/static/js/2.003a9cd0.chunk.js.LICENSE.txt",
+    "static/media/bo3.7222e67f.jpg": "/Online-Shoping-Website/static/media/bo3.7222e67f.jpg",
+    "static/media/jeans3.210bd11b.jpg": "/Online-Shoping-Website/static/media/jeans3.210bd11b.jpg",
+    "static/media/App.css": "/Online-Shoping-Website/static/media/n2.392871cc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c4889a6.js",
+    "static/css/2.f4c56af9.chunk.css",
+    "static/js/2.003a9cd0.chunk.js",
+    "static/css/main.2097ff75.chunk.css",
+    "static/js/main.3d56d1a5.chunk.js"
+  ]
+}
